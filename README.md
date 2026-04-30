@@ -1,22 +1,22 @@
-# Hi, I'm Rahul Kshirsagar 👋
+# Hi, I'm Rahul Kshirsagar 
 
-🎓 Data Science Undergraduate | Mumbai, India
-📧 kshrahul04@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/rahul-kshirsagar-5a24b1343)
-
----
-
-## 👨‍💻 About Me
-
-- 🏦 Interned at **NSE (National Stock Exchange of India)** — Data Warehousing Department
-- 💻 Interned at **Jayanth Technologies** — Full Stack Developer (ReactJS, NodeJS)
-- 🤖 Passionate about **Machine Learning, Data Engineering & Blockchain**
-- 🌱 Currently learning **Deep Learning & Cloud Data Platforms**
-- 💬 Ask me about **Python, SQL, Data Analysis, or Full Stack Dev**
+ Data Science graduate | Mumbai, India
+ kshrahul04@gmail.com
+ [LinkedIn](https://www.linkedin.com/in/rahul-kshirsagar-5a24b1343)
 
 ---
 
-## 🛠️ Tech Stack
+##  About Me
+
+-  Interned at **NSE (National Stock Exchange of India)** — Data Warehousing Department
+-  Interned at **Jayanth Technologies** — Full Stack Developer (ReactJS, NodeJS)
+-  Passionate about **Machine Learning, Data Engineering & Blockchain**
+-  Currently learning **Deep Learning & Cloud Data Platforms**
+-  Ask me about **Python, SQL, Data Analysis, or Full Stack Dev**
+
+---
+
+##  Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
@@ -48,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshrahul04&show_icons=true&theme=tokyonight)
 
@@ -56,4 +56,4 @@
 
 ---
 
-⭐ *Feel free to explore my repositories and reach out!*
+ *Feel free to explore my repositories and reach out!*
